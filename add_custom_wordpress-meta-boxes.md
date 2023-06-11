@@ -4,7 +4,7 @@ WordPress meta-boxes are used to create more additional fields related to the po
 
 A useful use-case is SEO optimization of code to allow post-author add more information that can be embedded as meta tag of the post. For example include some key-words and other relevant details that can help web crawlers discover the content within the post or page. This is a functionality highly used by seo-plugins. 
 
-### To add a new meta box, use the add_meta_box() function and plug it;s execution to the add_meta_boxes action hook as follows:
+### To add a new meta box, use the add_meta_box() function and plug it's execution to the add_meta_boxes action hook as follows:
 
 Action-hook and the custom meta box:
 ````php 

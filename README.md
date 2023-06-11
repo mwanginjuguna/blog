@@ -1,2 +1,9 @@
 # info
-This repository is a resource with discussions and information on various topics.
+In this repository, I document various topics, code snippets, and concepts I have learned or come across and hope to share with the community.
+
+### Links
+_[These are on Gist](https://gist.github.com/Francis-Kanothe)_
+- [WordPress Meta-boxes: How to optimize your website using the custom meta-boxes in WordPress](https://gist.github.com/Francis-Kanothe/2002e36b1fba6f60dfe9692b56b5e126)
+- [Widgets and Sidebar in WordPress Theme Development](https://gist.github.com/Francis-Kanothe/3c865343494b8939e71317229152ba4e)
+- [Adding Support for Custom Wordpress Featured Images/thumbnails](https://gist.github.com/Francis-Kanothe/5bbde1c21ef5fdeae5aeac87b37f5a96)
+- [Using PHP's OOP to bootstrap and autoload functionality in WordPress Custom Theme](https://gist.github.com/Francis-Kanothe/acb5f5c3bd518a68d2fd41accb0b1c19)
