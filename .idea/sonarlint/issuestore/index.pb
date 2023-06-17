@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 i
 9bootstrapping-worpress-theme-functionalities-using-OOP.md,3\5\35fca3476d4c5ae87b2a609ab11432b77e00ec36
 P
