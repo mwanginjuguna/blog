@@ -23,7 +23,7 @@ Defensive programming is a way of writing code. As a programmer, you write code 
 - **Assertions** - This involves checking the condition of the input or output. _An assertion is a statement inside the code that verifies an assumption or a condition that should be true at a specific point during the execution of the program._ For example, assume you have a function that calculates the factorial of a positive integer. You can write an assertion that confirms that indeed the input is a positive number. If the input is not a positive number, the assertion will fail and raise an exception providing instant feedback that something is wrong.
 
 ## Testing 
-After writing a piece of code that does a specific task, you should test it to make sure it works or actually__*does it*__. Consider a car maker. Before selling any car to actual customers in the market, the government requires the car maker and other third parties to test the car to ensure it is safe to drive. Similarly, you should test your code to make sure it works as expected.
+After writing a piece of code that does a specific task, you should test it to make sure it works or actually__*does it*__. Consider a car-maker. Before selling any car to actual customers in the market, the government requires the car maker and other third parties to test the car to ensure it is safe to drive. Similarly, you should test your code to make sure it works as expected.
 
 Testing is a form of validation. Validation helps discover problems in a program. If no problems are found, it means your program's correctness is high. Other forms of validation other than _testing_ include _code reviews_ and _verification_.
 
@@ -75,8 +75,26 @@ Verifying if the overall program works: Integration testing evaluates the functi
 **Common mistake is Rushing to do this**: Integration testing is often performed towards the later stages of the software development process, closer to the release. Due to time constraints or development delays, there is sometimes a tendency to rush through integration testing, potentially leading to overlooking certain issues. However, it is crucial to allocate sufficient time and resources for comprehensive integration testing to ensure the overall system's reliability and stability.
 
 ## Approaches to Testing
+This far, we have looked at the different ways testing is achieved. But how do you decide how you will write the tests to your program? On what basis do you test a function, or a class, or the entire program? Do you test based on the specification, the way code is implemented, or maybe follow your gut? _How does the gut even know what to do?_
 
+---
+Just a reminder, a _*specification* refers to the description of the function’s behavior, that is, the types of parameters, type of return value, and constraints and relationships between them._
+
+---
+
+There are two fundamental approaches to testing programs: black box and white box testing. Let's explore both of them.
 ### A. Black Box Testing
+Black box testing refers to creating tests that are derived entirely from the specification of the function or the program. This means that the test cases are developed by looking at the definition of the function through it's specification.
 
+In this test approach, the tests are designed without looking at the code.
+
+There are two advantages we can derive from this approach. First, testing can be done by someone other than the implementer to avoid some implementer biases. Also,testing can be reused if implementation changes.
 
 ### B. White Box Testing
+White box testing involves looking at how the code is implemented to guide the design of test suites. All the possibilities that can occur based on the code implementation are considered during the design of a test suite.
+
+This methodology has some significant drawbacks. First, it is easy to miss some paths or possibilities because some functions can have numerous pathways. Consider loops, how many paths do you need to consider and how many are you likely to miss?
+
+Another drawback is that some loops can require tests going through them arbitrary amount of times.
+
+Some tricks in dealing with white box testing is to ensure that tests cover all possible branches of the loop conditional. While dealing with for loops, ensure that you test when the loop is not entered, when the loop is only executed once, and when the body of the loop executes more than once. Similar case applies while working with while loops by including all cases that include the loop exit in your test suite.
