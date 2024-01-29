@@ -1,7 +1,12 @@
 # info
 In this repository, I document various topics, code snippets, and concepts I have learned or come across and hope to share with the community.
 
+## Agri-Content
+
+New content based on farming and agriculture topics will be streaming here.
+
 ### Links
+
 _[These are on Gist](https://gist.github.com/mwanginjuguna)_
 - [WordPress Meta-boxes: How to optimize your website using the custom meta-boxes in WordPress](https://gist.github.com/mwanginjuguna/2002e36b1fba6f60dfe9692b56b5e126)
 - [Widgets and Sidebar in WordPress Theme Development](https://gist.github.com/mwanginjuguna/3c865343494b8939e71317229152ba4e)
