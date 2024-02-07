@@ -1,7 +1,9 @@
 # Debugging and Testing: An Introductory overview
+
 In this introductory tutorial, I am going to explore and discuss the topics of debugging and testing software. The goal is to provide an introductory basis on how to approach testing and debugging for any code written in any language. Therefore, this material is not focused on any single language and provides a general principles that are applicable in debugging and testing any software, functions, and code.
 
 ## Learning Objectives
+
 By the end of this tutorial, the reader should be able to:
 1. Explain the meaning of debugging and describe atleast two approaches to debug their code.
 2. Define and classify different testing techniques used in Software development.
