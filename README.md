@@ -1,13 +1,27 @@
 # info
 In this repository, I document various topics, code snippets, and concepts I have learned or come across and hope to share with the community.
 
-## Agri-Content
+## Computing, Cloud, Machine Learning and Software Engineering Topics
+
+- [An introduction to Debugging and Testing in Software Development]()
+
+## Agriculture and Farming Topics
 
 New content based on farming and agriculture topics will be streaming here.
 
-### Links
+- [How Plants Grow]()
+
+## Entrepreneurship and Digital/online Business
+
+Topics focusing on e-commerce and online business technologies.
+
+- [# Digital Kenya - A summary of Kenyans on digital platforms]()
+- [You can sell more if you go online - Digitizing Kenyan Businesses]()
+
+### Wordpress Topics
 
 _[These are on Gist](https://gist.github.com/mwanginjuguna)_
+
 - [WordPress Meta-boxes: How to optimize your website using the custom meta-boxes in WordPress](https://gist.github.com/mwanginjuguna/2002e36b1fba6f60dfe9692b56b5e126)
 - [Widgets and Sidebar in WordPress Theme Development](https://gist.github.com/mwanginjuguna/3c865343494b8939e71317229152ba4e)
 - [Adding Support for Custom Wordpress Featured Images/thumbnails](https://gist.github.com/mwanginjuguna/5bbde1c21ef5fdeae5aeac87b37f5a96)
