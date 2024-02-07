@@ -1,22 +1,23 @@
-# info
-In this repository, I document various topics, code snippets, and concepts I have learned or come across and hope to share with the community.
+# Info
+
+A curated documentation of tutorials, guides, explainers, opinions, and others on various topics, code snippets, and concepts I have learned.
 
 ## Computing, Cloud, Machine Learning and Software Engineering Topics
 
-- [An introduction to Debugging and Testing in Software Development]()
+- [An introduction to Debugging and Testing in Software Development](https://github.com/mwanginjuguna/info/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/computing/testing-debugging-exceptions-assertions-in-programming.md)
 
 ## Agriculture and Farming Topics
 
 New content based on farming and agriculture topics will be streaming here.
 
-- [How Plants Grow]()
+- [How Plants Grow](https://github.com/mwanginjuguna/info/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/agri-business/basics-of-how-plants-grow.md)
 
 ## Entrepreneurship and Digital/online Business
 
 Topics focusing on e-commerce and online business technologies.
 
-- [# Digital Kenya - A summary of Kenyans on digital platforms]()
-- [You can sell more if you go online - Digitizing Kenyan Businesses]()
+- [# Digital Kenya - A summary of Kenyans on digital platforms](https://github.com/mwanginjuguna/info/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/digital-business/digital-kenya-summary.md)
+- [You can sell more if you go online - Digitizing Kenyan Businesses](https://github.com/mwanginjuguna/info/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/digital-business/digital-kenya-essay.md)
 
 ### Wordpress Topics
 
