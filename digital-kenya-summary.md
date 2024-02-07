@@ -22,7 +22,7 @@ Kenyan Population - 54.56 million
 
 **Kenyans on X**
 
-2.20 million users - **3.9 percent of population**
+1.90 million users - **3.5 percent of population**
 
 **Kenyans on Instagram**
 
