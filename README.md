@@ -15,6 +15,7 @@ Computers are everywhere. More people are connected now more than ever. As a sof
 - [Debugging and Testing in Software Development: An Introductory overview](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/testing-in-software-development.md)
 - [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/early-testing-to-save-money-time.md)
 - [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm.md)
+- [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup.md)
 
 ## Agriculture and Farming Topics
 
