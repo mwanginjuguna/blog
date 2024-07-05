@@ -12,10 +12,10 @@ Enjoy.
 
 Computers are everywhere. More people are connected now more than ever. As a software developer, I want to understand technology and explain computing tools to experts and every-day people.
 
-- [Debugging and Testing in Software Development: An Introductory overview](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/testing-in-software-development.md)
-- [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/early-testing-to-save-money-time.md)
-- [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm.md)
-- [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup.md)
+- [Debugging and Testing in Software Development: An Introductory overview](https://mwanginjuguna.github.io/blog/computing/computing/testing-in-software-development)
+- [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://mwanginjuguna.github.io/blog/computing/computing/early-testing-to-save-money-time)
+- [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://mwanginjuguna.github.io/blog/computing/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm)
+- [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup)
 
 ## Agriculture and Farming Topics
 
@@ -23,8 +23,8 @@ Agriculture is the backbone of the global economy and human sustenance. Everyday
 
 I believe science and technology are not be replacements for natural practices in agriculture. They are tools that empower our ability to solve problems that face the continuity natural farming methods, challenges of climate change, and deterioration of soil fertility. These problems can be solved if we harness knowledge of growing crops sustainably to feed our growing population. However, we MUST approach the challenge of feeding the world as a challenge in adopting sustainable agriculture, and not substituting agricultural products.
 
-- [Growing Plants 101 - Understanding the Basic Requirements, Processes, and Outcomes of How Plants Grow](https://github.com/mwanginjuguna/blog/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/agri-business/basics-of-how-plants-grow.md)
-- [5 Farming Lessons From Mother Nature](https://github.com/mwanginjuguna/blog/blob/dbba9e4419c8b7c15dbf6a3f0c39910b04cdf66e/agri-business/nature-method-of-agriculture.md)
+- [Growing Plants 101 - Understanding the Basic Requirements, Processes, and Outcomes of How Plants Grow](https://mwanginjuguna.github.io/blog/agri-business/basics-of-how-plants-grow)
+- [5 Farming Lessons From Mother Nature](https://mwanginjuguna.github.io/blog/agri-business/nature-method-of-agriculture)
 
 ## Entrepreneurship and Digital/online Business
 
@@ -32,8 +32,8 @@ Technology is the most important asset in business today. The success of any ent
 
 For developing countries, small businesses, and rural areas, technology is a great accelerating force that is helping startups compete globally and grow rapidly. It is my goal to harness technology skills, explain technologies, and demonstrate to businesses how technology is a game-changer in their entrepreneurship journey.
 
-- [Digital Kenya - A summary of Kenyans on digital platforms](https://github.com/mwanginjuguna/blog/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/digital-business/digital-kenya-summary.md)
-- [You can sell more if you go online - Digitizing Kenyan Businesses](https://github.com/mwanginjuguna/blog/blob/a3eb1dda398161725f8ad56da7362d08c7662c71/digital-business/digital-kenya-essay.md)
+- [Digital Kenya - A summary of Kenyans on digital platforms](https://mwanginjuguna.github.io/blog/digital-business/digital-kenya-summary)
+- [You can sell more if you go online - Digitizing Kenyan Businesses](https://mwanginjuguna.github.io/blog/computin/digital-business/digital-kenya-essay)
 
 ## Wordpress Topics
 
