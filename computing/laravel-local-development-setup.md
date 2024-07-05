@@ -90,3 +90,5 @@ What option are you considering? If you use a different setup, which tools work 
 Let me know on X [@mwangikanothe](https://x.com/mwangikanothe).
 
 Cheers.
+
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)

@@ -130,3 +130,5 @@ Let me know in the comments.
 See you in the next one.
 
 *Shukran.*
+
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)

@@ -34,6 +34,7 @@ Let's find the answers together. Stay with me!
       - [Plant Uptake of Nutrients](#plant-uptake-of-nutrients)
   - [Conclusion](#conclusion)
   - [**References**](#references)
+    - [Blog - Browse/Read More Articles](#blog---browseread-more-articles)
 
 
 ## Understanding **How Plants Grow**
@@ -232,3 +233,6 @@ Healthy soil equals healthy plants. This increases crop yields, beautiful farms,
 1. Oregon State University, & VanDerZanden, A. M. (2008, January 7). Plant Growth and Development. Retrieved from [Ag - Community Horticulture/Landscape website](https://extension.oregonstate.edu/gardening/flowers-shrubs-trees/plant-growth-development)
 2. Koo, B-. J., Adriano, D. C., Bolan, N. S., & Barton, C. D. (2005). [ROOT EXUDATES AND MICROORGANISMS. Encyclopedia of Soils in the Environment, 421–428.](https://doi.org/10.1016/b0-12-348530-4/00461-6)
 3. Liao, Z., Fan, J., Lai, Z., Bai, Z., Wang, H., Cheng, M., … Li, Z. (2023). [Response network and regulatory measures of plant-soil-rhizosphere environment to drought stress. Advances in Agronomy, 180, 93–196.](https://doi.org/10.1016/bs.agron.2023.03.002)
+
+
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)

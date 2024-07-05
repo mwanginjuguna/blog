@@ -54,6 +54,8 @@ That's it for now. I'll catch you on the next one.
 
 Cheers.
 
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)
+
 ---
 
 I am Francis Njuguna. My goal is to deconstruct complex topics into simple bit-size content. I help everyday people deeply connect with topics that are mostly considered difficult. Everybody can understand anything if it is explained well. Beyond writing, I enjoy writing software and web applications for businesses. From websites and landing pages, to e-commerce sytems and automation scripts, **there is always something we can do together.** Check out my [projects on GitHub](https://github.com/mwanginjuguna) or send me an email at [francis.kanothe@gmail.com](mailto::francis.kanothe@gmail.com).

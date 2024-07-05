@@ -12,9 +12,9 @@ Enjoy.
 
 Computers are everywhere. More people are connected now more than ever. As a software developer, I want to understand technology and explain computing tools to experts and every-day people.
 
-- [Debugging and Testing in Software Development: An Introductory overview](https://mwanginjuguna.github.io/blog/computing/computing/testing-in-software-development)
-- [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://mwanginjuguna.github.io/blog/computing/computing/early-testing-to-save-money-time)
-- [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://mwanginjuguna.github.io/blog/computing/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm)
+- [Debugging and Testing in Software Development: An Introductory overview](https://mwanginjuguna.github.io/blog/computing/testing-in-software-development)
+- [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://mwanginjuguna.github.io/blog/computing/early-testing-to-save-money-time)
+- [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://mwanginjuguna.github.io/blog/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm)
 - [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup)
 
 ## Agriculture and Farming Topics
@@ -33,7 +33,7 @@ Technology is the most important asset in business today. The success of any ent
 For developing countries, small businesses, and rural areas, technology is a great accelerating force that is helping startups compete globally and grow rapidly. It is my goal to harness technology skills, explain technologies, and demonstrate to businesses how technology is a game-changer in their entrepreneurship journey.
 
 - [Digital Kenya - A summary of Kenyans on digital platforms](https://mwanginjuguna.github.io/blog/digital-business/digital-kenya-summary)
-- [You can sell more if you go online - Digitizing Kenyan Businesses](https://mwanginjuguna.github.io/blog/computin/digital-business/digital-kenya-essay)
+- [You can sell more if you go online - Digitizing Kenyan Businesses](https://mwanginjuguna.github.io/blog/digital-business/digital-kenya-essay)
 
 ## Wordpress Topics
 

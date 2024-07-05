@@ -20,3 +20,5 @@ To ambitious entrepreneurs,
 * You get **paid via Mpesa**, which is integrated into the website.
 
 Your customers are ONLINE. Take your business to them.
+
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)

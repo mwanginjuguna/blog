@@ -165,3 +165,5 @@ Generally, this introduction material has covered debugging, and testing. With t
 I hope you had fun reading about debugging and software testing. I am [Francis Njuguna - (github profile)](https://github.com/mwanginjuguna/) and my goal is to share information about programming, technology, agriculture, businesses, people, and education. Be sure to subscribe to my Newsletter and I will keep you in the loop with juicy stuff.
 
 Bye for now, Cheers.
+
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)

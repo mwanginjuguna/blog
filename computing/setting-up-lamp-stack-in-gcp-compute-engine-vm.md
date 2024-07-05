@@ -436,4 +436,4 @@ With this, our application is ready to be served to the public.
 4. [Laravel Deployment - _Official Laravel Docs_](https://laravel.com/docs/11.x/deployment)
 5. [Installing Node on Ubuntu - NodeSource Node.js Binary Distributions](https://github.com/nodesource/distributions/blob/master/README.md)
 
-> Ad: If you need help configuring your Laravel Applications, email me, start a live chat session, or [send a message here](https://mwangikanothe.com/contact).
+### [Blog - Browse/Read More Articles](https://mwanginjuguna.github.io/blog/)
