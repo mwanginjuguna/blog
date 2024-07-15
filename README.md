@@ -16,6 +16,7 @@ Computers are everywhere. More people are connected now more than ever. As a sof
 - [Use This Testing Approach If you want to save money (How to Test Your Software Product)](https://mwanginjuguna.github.io/blog/computing/early-testing-to-save-money-time)
 - [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://mwanginjuguna.github.io/blog/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm)
 - [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup)
+- [Think Like a Database - To Write Better SQL Queries](https://mwanginjuguna.github.io/blog/computing/think-like-a-database)
 
 ## Agriculture and Farming Topics
 
