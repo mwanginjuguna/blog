@@ -26,13 +26,13 @@ Understanding how MYSQL breaks down the statement and executes it to get the res
 
 ### The MySQL Process
 
-1. Step 1 - Parsing
+#### Step 1 - Parsing
 
 Once you run a statement, MySQL will parse it and ensure it is syntactically correct. This checks for syntax errors. MySQL then optimizes the query for execution.
 
 At this point, your statement has not interacted with the database. But, it is prepared and ready to be executed.
 
-2. Step 2 - Retrieving Data
+#### Step 2 - Retrieving Data
 
 MySQL executes the statement to retrieve the required data. At this point, MYSQL looks at the statement to understand what commands to run and which tables to interact with.
 
@@ -40,7 +40,7 @@ This step involves running SELECT, JOIN, FILTER (Where), and sorting clauses of 
 
 By the end of this step, MySQL has a result set.
 
-3. Step 3 - Grouping
+#### Step 3 - Grouping
 
 If the SQL statement includes a `GROUP BY` clause, it is executed in the step.
 
@@ -50,7 +50,7 @@ For example, if the statement include `GROUP BY category`, MYSQL will create set
 
 Therefore, grouping produces a result set in grouped sets.
 
-4. Step 4 - Executing Aggregate functions
+#### Step 4 - Executing Aggregate functions
 
 Aggregate functions include SUM, COUNT, AVG, etc.
 
@@ -58,17 +58,17 @@ After grouping, these functions are executed on each group.
 
 The aggregate function produces a single value for each group.
 
-5. Step 5 - HAVING clause
+#### Step 5 - HAVING clause
 
 If the `HAVING` clause is present, MYSQL applies the condition to the grouped data. This reduces the result set further.
 
-6. SORT and LIMIT
+#### SORT and LIMIT
 
 MYSQL will sort the result set according to the condition provided in the `ORDER BY` clause (if present).
 
 MySQL then applies `LIMIT` and `OFFSET` cluases to limit the number of rows returned.
 
-7. Step 7: Return the Result
+#### Step 7: Return the Result
 
 MySQL returns the result set to the client.
 
