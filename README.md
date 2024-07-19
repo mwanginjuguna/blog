@@ -17,7 +17,7 @@ Computers are everywhere. More people are connected now more than ever. As a sof
 - [How to Setup Laravel on Ubuntu 20.02 - Quick Guide using Google Cloud Compute Engine's VM](https://mwanginjuguna.github.io/blog/computing/setting-up-lamp-stack-in-gcp-compute-engine-vm)
 - [Top 4 Tools to Set up the local environment for Laravel development](https://mwanginjuguna.github.io/blog/computing/laravel-local-development-setup)
 - [Think Like a Database - To Write Better SQL Queries](https://mwanginjuguna.github.io/blog/computing/think-like-a-database)
-- [The Basics of BASH Scripting: Bourne Again SHell](https://mwanginjuguna.github.io/blog/computing/introduction-to-bash-scripting
+- [The Basics of BASH Scripting: Bourne Again SHell](https://mwanginjuguna.github.io/blog/computing/introduction-to-bash-scripting)
 
 ## Agriculture and Farming Topics
 
