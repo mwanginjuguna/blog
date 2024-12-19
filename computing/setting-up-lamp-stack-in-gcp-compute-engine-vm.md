@@ -426,6 +426,50 @@ require __DIR__.'/../main/my_repository/vendor/autoload.php';
 
 With this, our application is ready to be served to the public.
 
+---
+
+If your application does not allow configurations in `.htaccess` to work, try configuring the rewrite module of apache and allow `.htaccess` files in laravel projects as follows:
+
+Check if there is a module called `rewrite.load` in your apache at:
+```
+cd /etc/apache2/mods-enabled/
+```
+If it does not exist execute the following excerpt:
+
+```
+sudo a2enmod rewrite
+```
+Otherwise, change the Apache configuration file to consolidate use of the "friendly URL".
+
+```
+sudo nano /etc/apache2/apache2.conf
+```
+
+Find the following code inside the editor:
+```
+<Directory /var/www/> 
+   Options Indexes FollowSymLinks
+   AllowOverride None
+   Require all granted
+</Directory> 
+```
+
+Change to:
+```
+<Directory /var/www/> 
+    Options Indexes FollowSymLinks
+    AllowOverride All
+    Require all granted
+</Directory>
+```
+
+After that restart the Apache server via:
+```
+sudo /etc/init.d/apache2 restart
+```
+> Source: [StackOverflow - https://stackoverflow.com/a/48198007](https://stackoverflow.com/a/48198007)
+---
+
 **For this to work, You will need to ensure your domain is correctly redirected to the VM. This can be achieved by pointing the dns servers correctly to the External IP Address of the VM.**
 
 ## References and More Resources:
