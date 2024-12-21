@@ -69,3 +69,7 @@ Let your website be the only digital space your fitness business runs on. Own yo
 We _make your website the central business platform that combines all necessary tools into one application_, simplifying your workflow. **Experience the convenience of an all-in-one solution!**
 
 > TLDR: Using 100 tools in your fitness business is not Automation. **You need an application that can do it all. You need a platform that grows with you, and actually saves you money and time. A personalized single source of truth. An ALL-IN-ONE Fitness Application you can acccess from anywhere, anytime, using any device (phone, laptop, & computer).**
+
+Run Your Fitness Business Anywhere, From YOUR OWN WEBSITE!
+
+Let's our team at [Gameplan Labs](http://gameplanlabs.org/) personalize a fitness application for your personal fitness trainer business. Start a live chat with our agent or send a private message to Francis (CEO) at [franscis.kanothe@gmail.com](mailto::franscis.kanothe@gmail.com) NOW for personalized deal.
