@@ -36,6 +36,7 @@ For developing countries, small businesses, and rural areas, technology is a gre
 
 - [Digital Kenya - A summary of Kenyans on digital platforms](https://mwanginjuguna.github.io/blog/digital-business/digital-kenya-summary)
 - [You can sell more if you go online - Digitizing Kenyan Businesses](https://mwanginjuguna.github.io/blog/digital-business/digital-kenya-essay)
+- [12 Secrets Revealed: Exactly How to Rank your E-Commerce Store with SEO](https://mwanginjuguna.github.io/blog/digital-business/e-commerce-store-seo-checklist)
 
 ## Wordpress Topics
 
